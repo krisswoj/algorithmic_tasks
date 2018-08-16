@@ -88,7 +88,7 @@ public class Main {
 
         System.out.println(myPrint(sudoku));
         //Enter x and y like a number from 1 to 9
-        System.out.println(checkNumber(9, 9, 6, sudoku));
+        System.out.println(checkNumber(9, 9, 3, sudoku));
     }
 
 }
